@@ -23,5 +23,3 @@ SimpleStorage
   - [ ] transfer value from contract
   - [x] fail a transaction
   - [ ] version info tied to commit hash
-
- 
